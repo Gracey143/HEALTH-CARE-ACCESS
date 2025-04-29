@@ -1,6 +1,6 @@
 # HEALTHCARE-DASHBORD
 
-### Dashboard Link :https://drive.google.com/file/d/12F2J2mXX-BDrULkHf-4oLMM495F5rOCj/view?usp=sharing
+## Dashboard Link https://drive.google.com/file/d/12F2J2mXX-BDrULkHf-4oLMM495F5rOCj/view?usp=sharing
 ## Problem Statement
 
 Disparities in healthcare access, funding distribution, and emergency response remain significant between rural and urban areas across many regions. Rural communities often experience limited access to healthcare facilities, delayed emergency services, and inconsistent funding. Urban centers, despite serving dense populations, sometimes receive less funding per facility. This project addresses these challenges by analyzing healthcare infrastructure data to identify funding inefficiencies, accessibility gaps, and performance differences between urban and rural settings.
@@ -19,15 +19,21 @@ Disparities in healthcare access, funding distribution, and emergency response r
  ## Features
  
 • Urban-Rural classification based on electricity and internet availability (via DAX formula).
+
 • ⁠Interactive Power BI dashboard with insights across key healthcare KPIs.
+
 • ⁠Dynamic visuals for funding, facility types, patient load, and response times.
+
 • ⁠Slicer and filter options to explore data by region, facility, and type.
 
 ## Tools and Technologies
 
 •	Power BI – for data modeling and dashboard visualization. 
+
 • ⁠Microsoft Excel – for initial data cleaning and transformation. 
+
 • ⁠DAX (Data Analysis Expressions) – for calculated columns. 
+
 • ⁠GitHub – for project documentation and version control
 
 ## Key Insights
@@ -40,9 +46,13 @@ Disparities in healthcare access, funding distribution, and emergency response r
 ## Future Directions
 
 This project lays the groundwork for continued exploration into healthcare inequities and system optimization. Key directions moving forward include:
+
 • Incorporating real-time healthcare data to enable dynamic monitoring of emergency response and funding efficiency.
+
 • ⁠Expanding the dataset to include health outcomes and patient satisfaction, providing a more holistic view of healthcare quality.
+
 • ⁠Building predictive models to forecast resource needs and identify potential gaps in service delivery based on population trends.
+
 • ⁠Collaborating with public health agencies and policymakers to translate data-driven insights into actionable health reforms.
     
   ## How to Contribute
